@@ -1,4 +1,4 @@
-# Kanban Dashboard
+# Dashboard
 
 A modern, responsive Kanban dashboard built with React and Tailwind CSS. This project provides a comprehensive project management interface with task tracking, team collaboration, and real-time statistics.
 
